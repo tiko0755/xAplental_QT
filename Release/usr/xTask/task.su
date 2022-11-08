@@ -1,0 +1,6 @@
+../usr/xTask/task.c:251:13:forwardReq	16	static
+../usr/xTask/task.c:247:13:forwardRes	8	static
+../usr/xTask/task.c:175:11:doCommand.part.0.constprop.isra	32	static
+../usr/xTask/task.c:112:13:task4	520	static
+../usr/xTask/task.c:49:6:taskIrq	0	static
+../usr/xTask/task.c:66:6:taskPolling	16	static

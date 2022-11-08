@@ -1,0 +1,7 @@
+../usr/promise/promise.c:72:12:promise_Start	16	static
+../usr/promise/promise.c:138:13:script_takeREG	16	static
+../usr/promise/promise.c:546:13:promise_requestCB	16	static
+../usr/promise/promise.c:88:13:promiseReadLine.constprop	88	static
+../usr/promise/promise.c:487:12:promise_Cmd	296	static
+../usr/promise/promise.c:416:13:promise_PeriodJOb	296	static
+../usr/promise/promise.c:55:6:promiseSetup	16	static

@@ -1,0 +1,3 @@
+../usr/xMisc/misc.c:34:6:miscDelay	0	static
+../usr/xMisc/misc.c:43:5:strFormat	16	static
+../usr/xMisc/misc.c:54:6:devRename	16	static

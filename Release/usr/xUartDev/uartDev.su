@@ -1,0 +1,12 @@
+../usr/xUartDev/uartDev.c:98:13:uartStartRecv	16	static
+../usr/xUartDev/uartDev.c:108:11:uartTestRestartRecv	8	static
+../usr/xUartDev/uartDev.c:320:12:uartRxFetchFrame	40	static
+../usr/xUartDev/uartDev.c:203:11:uartRxMonitor	32	static
+../usr/xUartDev/uartDev.c:118:12:uartTxPolling	16	static
+../usr/xUartDev/uartDev.c:133:12:uartSend	24	static
+../usr/xUartDev/uartDev.c:387:12:TjcSendCmd	124	static
+../usr/xUartDev/uartDev.c:181:12:uartTxSendFrame	32	static
+../usr/xUartDev/uartDev.c:50:6:setupUartDev	24	static
+../usr/xUartDev/uartDev.c:234:5:fetchLineFromRingBuffer	40	static
+../usr/xUartDev/uartDev.c:278:5:fetchLineFromRingBufferX	56	static
+../usr/xUartDev/uartDev.c:315:12:uartRxFetchLine	8	static

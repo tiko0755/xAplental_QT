@@ -1,0 +1,11 @@
+../usr/xIIC_IO/IIC_IO.c:150:13:IIC_RESTART	8	static
+../usr/xIIC_IO/IIC_IO.c:197:13:IIC_WriteByte	24	static
+../usr/xIIC_IO/IIC_IO.c:158:13:IIC_STOP	8	static
+../usr/xIIC_IO/IIC_IO.c:214:11:IIC_WaitAck	16	static
+../usr/xIIC_IO/IIC_IO.c:81:11:iicioWrite	32	static
+../usr/xIIC_IO/IIC_IO.c:71:11:iic_io_Write_Reg16	16	static
+../usr/xIIC_IO/IIC_IO.c:68:11:iic_io_Write	16	static
+../usr/xIIC_IO/IIC_IO.c:110:11:iicioRead	32	static
+../usr/xIIC_IO/IIC_IO.c:58:11:iic_io_Read_Reg16	16	static
+../usr/xIIC_IO/IIC_IO.c:55:11:iic_io_Read	16	static
+../usr/xIIC_IO/IIC_IO.c:33:6:IIC_IO_Setup	24	static

@@ -1,0 +1,4 @@
+../usr/xAt24Cxx/at24cxx.c:63:4:readBuf	24	static
+../usr/xAt24Cxx/at24cxx.c:85:4:writeBuf	48	static
+../usr/xAt24Cxx/at24cxx.c:34:6:AT24CXX_Setup	32	static
+../usr/xAt24Cxx/at24cxx.c:45:6:AT24CXX_Setup1	16	static

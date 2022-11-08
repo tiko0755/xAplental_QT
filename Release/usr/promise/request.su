@@ -1,0 +1,4 @@
+../usr/promise/request.c:64:13:request_PeriodJob	80	static
+../usr/promise/request.c:49:12:request_Add	40	static
+../usr/promise/request.c:91:13:request_AsyncJob	16	static
+../usr/promise/request.c:33:6:setup_request	8	static

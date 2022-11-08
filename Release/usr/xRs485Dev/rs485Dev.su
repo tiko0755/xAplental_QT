@@ -1,0 +1,6 @@
+../usr/xRs485Dev/rs485Dev.c:98:11:rs485RxMonitor	8	static
+../usr/xRs485Dev/rs485Dev.c:102:13:rs485TxPolling	8	static
+../usr/xRs485Dev/rs485Dev.c:106:12:rs485RxFetchFrame	8	static
+../usr/xRs485Dev/rs485Dev.c:85:13:rs485TxSendString	532	static
+../usr/xRs485Dev/rs485Dev.c:76:12:rs485TxSend	8	static
+../usr/xRs485Dev/rs485Dev.c:41:6:setupRs485Dev	56	static
